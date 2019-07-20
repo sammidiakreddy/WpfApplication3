@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfApplication3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="1025" ResizeMode="CanMinimize"  x:Name="mW" BorderBrush="Aqua" BorderThickness="2" >
+    <Grid  x:Name="gridMain" Margin="0,0,0,0"  Background="Red"  >
+        <Grid x:Name="grdwhole" Margin="0,0,0,0"  HorizontalAlignment="Left" >
+            <Grid.Background>
+                <ImageBrush ImageSource="/WpfApplication3;component/Sankes_Ladders.jpg"></ImageBrush>
+            </Grid.Background>
+        </Grid>
+
+        <Button  Visibility="Hidden"  x:Name="btnRollDice" Content="Rolldice" HorizontalAlignment="Left" Margin="877,479,0,0" 
+                VerticalAlignment="Top" Width="75"  Click="btnRollDice_Click" Height="30" />
+        <Button    x:Name="btnDisplayLog" Content="Display Log" HorizontalAlignment="Left" Margin="810,479,0,0" 
+                VerticalAlignment="Top" Width="67"  Click="btnDisplayLog_Click"  Height="30" />
+        <Label Content="Number of Players" Margin="822,98,49,386" />
+        <TextBox Margin="973,98,15,391" x:Name="txtnop" TextChanged="txtnop_TextChanged"      />
+        <Button Content="Set Players" x:Name="btnSetPlayer" Click="btnSetPlayer_Click" Margin="896,133,14,356" Visibility="Hidden" ></Button>
+        <Button Content="Reset Game" x:Name="btnResetGame" Click="btnResetGame_Click"  Margin="896,133,14,356" Visibility="Hidden"/>
+        <Label x:Name="lblPlayerText"  FontSize="20" FontWeight="Bold"  Content="Label" HorizontalAlignment="Left" Height="42" Margin="803,10,0,0" VerticalAlignment="Top" Width="204"/>
+        <Label  Content="Dice" Margin="896,57,65,419" />
+        <Label x:Name="lblDice"   FontSize="20"  FontWeight="Black" HorizontalAlignment="Center" VerticalAlignment="Center" Width="32" Height="36" Content="0" Margin="964,52,21,431" />
+        <Grid HorizontalAlignment="Left" Margin="822,168,0,0" VerticalAlignment="Top" Width="185" Background="Aqua"    >
+            <StackPanel x:Name="stkPnlPlayerList" HorizontalAlignment="Left"  VerticalAlignment="Top"  Orientation="Vertical" />
+
+        </Grid>
+        <DataGrid  x:Name="dataGridScopre" HorizontalAlignment="Left" Margin="540,168,0,0" VerticalAlignment="Top" Height="308" Width="184" AutoGenerateColumns="False"  >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path=PlayerNumber}" ClipboardContentBinding="{x:Null}" Header="Player"/>
+                <DataGridTextColumn Binding="{Binding Path=PlayerStartNumber}" ClipboardContentBinding="{x:Null}" Header="Start"/>
+                <DataGridTextColumn Binding="{Binding Path=DiceNumer}" ClipboardContentBinding="{x:Null}" Header="Dice"/>
+                <DataGridTextColumn Binding="{Binding Path=TargetNumber}" ClipboardContentBinding="{x:Null}"  Header="Target"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,34 @@
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\View\DisplayLog.g.cs
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\View\MainWindow.g.cs
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\View\DisplayLog.baml
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\View\MainWindow.baml
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.cache
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\useThis\Documents\Visual Studio 2015\Projects\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojAssemblyReference.cache
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csprojAssemblyReference.cache
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\View\DisplayLog.g.cs
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\View\MainWindow.g.cs
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\View\DisplayLog.baml
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\View\MainWindow.baml
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.cache
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.csproj.CoreCompileInputs.cache
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\useThis\Source\Repos\WpfApplication3\WpfApplication3\obj\Debug\WpfApplication3.pdb
